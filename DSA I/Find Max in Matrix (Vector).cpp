@@ -5,7 +5,7 @@ int main()
 {
     vector<vector<int>>v;
     int k;
-    int a[3][3];
+    int a[3][3];/
     for(int r=0; r<3; r++)
     {
         vector<int>v1;
